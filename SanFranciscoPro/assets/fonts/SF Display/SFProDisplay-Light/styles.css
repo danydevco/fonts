@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'SFProDisplay-Light';
+  src: url('SFProDisplay-Light.eot?#iefix') format('embedded-opentype'),  url('SFProDisplay-Light.otf')  format('opentype'),
+	     url('SFProDisplay-Light.woff') format('woff'), url('SFProDisplay-Light.ttf')  format('truetype'), url('SFProDisplay-Light.svg#SFProDisplay-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

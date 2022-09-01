@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'AvenirNext';
+    src:         url('../fonts/DemiBold/DemiBold.eot?#iefix') format('embedded-opentype'),
+                 url('../fonts/DemiBold/DemiBold.woff') format('woff'),
+                 url('../fonts/DemiBold/DemiBold.ttf') format('truetype'),
+                 url('../fonts/DemiBold/DemiBold.svg#AvenirNext-DemiBold') format('svg');
+    font-weight: 600;
+    font-display: swap;
+    font-style:  normal;
+}
+
+
+@font-face {
+    font-family: 'AvenirNext';
+    src:         url('../fonts/Bold/Bold.eot?#iefix') format('embedded-opentype'),
+                 url('../fonts/Bold/Bold.woff') format('woff'),
+                 url('../fonts/Bold/Bold.ttf') format('truetype'),
+                 url('../fonts/Bold/Bold.svg#AvenirNext-Bold') format('svg');
+    font-weight: 700;
+    font-display: swap;
+    font-style:  normal;
+}
+
+@font-face {
+    font-family: 'AvenirNext';
+    src:         url('../fonts/Medium/Medium.eot?#iefix') format('embedded-opentype'),
+                 url('../fonts/Medium/Medium.woff') format('woff'),
+                 url('../fonts/Medium/Medium.ttf') format('truetype'),
+                 url('../fonts/Medium/Medium.svg#AvenirNext-Medium') format('svg');
+    font-weight: 500;
+    font-display: swap;
+    font-style:  normal;
+}
+
+@font-face {
+    font-family: 'AvenirNext';
+    src:         url('../fonts/Regular/Regular.eot?#iefix') format('embedded-opentype'),
+                 url('../fonts/Regular/Regular.woff') format('woff'),
+                 url('../fonts/Regular/Regular.ttf') format('truetype'),
+                 url('../fonts/Regular/Regular.svg#AvenirNext-Regular') format('svg');
+    font-weight: 400;
+    font-display: swap;
+    font-style:  normal;
+}
+
+
+* {
+    font-family: 'AvenirNext', serif !important;
+}
+

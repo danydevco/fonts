@@ -1,0 +1,68 @@
+/*---------------------------------------------------------------------------*
+ * SF UI Display
+ *---------------------------------------------------------------------------*/
+
+/** Bold */
+@font-face {
+    font-family: 'SF Display';
+    font-weight: 700;
+    font-display: swap;
+    src: url('../fonts/SF Display/SFProDisplay-Bold/SFProDisplay-Bold.woff') format('woff');
+
+}
+
+/** Semibold */
+@font-face {
+    font-family: 'SF Display';
+    font-weight: 600;
+    font-display: swap;
+    src: url('../fonts/SF Display/SFProDisplay-Semibold/SFProDisplay-Semibold.woff') format('woff');
+}
+
+/** Medium */
+@font-face {
+    font-family: 'SF Display';
+    font-weight: 500;
+    font-display: swap;
+    src: url('../fonts/SF Display/SFProDisplay-Medium/SFProDisplay-Medium.woff') format('woff');
+}
+
+
+/** Regular */
+@font-face {
+    font-family: 'SF Display';
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/SF Display/SFProDisplay-Regular/SFProDisplay-Regular.woff') format('woff');
+}
+
+/** Light */
+@font-face {
+    font-family: 'SF Display';
+    font-weight: 300;
+    font-display: swap;
+    src: url('../fonts/SF Display/SFProDisplay-Light/SFProDisplay-Light.woff') format('woff');
+}
+
+
+/*---------------------------------------------------------------------------*
+ * SF UI Text
+ *---------------------------------------------------------------------------*/
+
+/** Black Italic */
+@font-face {
+    font-family: 'SF Text';
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+    src: url('../fonts/SF Text/SFUIText-BlackItalic/SFUIText-BlackItalic.woff') format('woff');
+}
+
+/** Medium Italic */
+@font-face {
+    font-family: 'SF Text';
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+    src: url('../fonts/SF Text/SFUIText-MediumItalic/SFUIText-MediumItalic.woff') format('woff');
+}

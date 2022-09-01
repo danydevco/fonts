@@ -1,0 +1,19 @@
+/*---------------------------------------------------------------------------*
+ * HKGroteskPro
+ *---------------------------------------------------------------------------*/
+
+/** Medium */
+@font-face {
+    font-family: 'HKGroteskPro';
+    font-weight: 500;
+    font-display: swap;
+    src: url('../fonts/Medium/HKGroteskPro-Medium.woff') format('woff');
+}
+
+/** Regular */
+@font-face {
+    font-family: 'HKGroteskPro';
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/Regular/HKGroteskPro-Regular.woff') format('woff');
+}
